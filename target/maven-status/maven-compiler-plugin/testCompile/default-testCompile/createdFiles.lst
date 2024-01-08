@@ -1,0 +1,5 @@
+init\UserAgent.class
+testsToCheckAuthorization\TestErrorMessageDisplayedOnEmptyPassword.class
+testsToCheckAuthorization\TestSignInWithCorrectData.class
+testsToCheckAuthorization\TestErrorMessageDisplayedWithIncorrectEmail.class
+init\InitialSelenide.class

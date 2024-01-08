@@ -1,0 +1,1 @@
+{"uuid":"43ea6c2f-26d8-44fc-838b-8e7c3f1bcfb0","name":"Test checking authorization with correct data","children":["bd526dc8-e16e-4907-b899-fb000c3adba5"],"befores":[{"name":"before","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1704706933143,"stop":1704706933143}],"afters":[],"start":1704706933143,"stop":1704706938847}
