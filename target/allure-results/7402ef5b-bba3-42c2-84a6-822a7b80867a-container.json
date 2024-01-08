@@ -1,1 +1,0 @@
-{"uuid":"7402ef5b-bba3-42c2-84a6-822a7b80867a","name":"Test checking authorization with empty password","children":["ef0821aa-00ea-427c-8a9f-2cc17b2adcb5"],"befores":[{"name":"before","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1704707175918,"stop":1704707175952}],"afters":[],"start":1704707175892,"stop":1704707187516}
